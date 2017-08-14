@@ -1,8 +1,8 @@
-##H2 Adding items to the UHT Database
+## Adding items to the UHT Database
 
 This document describes the procedure for adding an item to the Understanding Human Trafficking database.
 
-##H3 Database formats
+### Database formats
 
 Database entries should be one of seven formats:
 
@@ -16,7 +16,7 @@ Database entries should be one of seven formats:
 
 Because the UHT database is intended to collect brief, to-the-point and text-light information related to human trafficking, there is not a database format for narrative or extended original text. Such content would likely be more appropriate for the Blog section.
 
-##H3 Adding an item to the database
+### Adding an item to the database
 
 1. On the WP sidebar, hover over "Database Entries" and select "Add new."
 2. From the "Format" box on the database entry sidebar, select the database type you are entering from the checkboxes. Only check one box.

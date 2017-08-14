@@ -1,5 +1,5 @@
 
-## H2 Database Structure/Construction
+##  Database Structure/Construction
 
 This document is focused on the development of the Wordpress site and is intended for team members working on Wordpress infrastructure. Document initially drafted by Brooke Bergentzal at ILiADS 8/17.
 
